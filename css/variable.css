@@ -1,0 +1,21 @@
+:root {
+    /* Colors */
+    --Color_Main: #F1821D;
+    --Color_Title_text: #0c0c0c;
+    --Color_text: #424750;
+    --Color_Placeholder: #ccc;
+    /* Font_Size */
+    --Font_Size_Large: 20px;
+    --Font_Size_Main: 16px;
+    --Font_Size_Md: 14px;
+    --Font_Size_Sm: 12px;
+    /* Font_Weight */
+    --Font_Weight_Large: 900;
+    --Font_Weight_Main: 800;
+    --Font_Weight_Md: 700;
+    --Font_Weight_Sm: 600;
+    /* Box_Shadow */
+    --Box_Shadow_Main: 0 1px 6px rgba(0, 0, 0, 0.18);
+    /* Padding */
+    --Padding: 1rem;
+}

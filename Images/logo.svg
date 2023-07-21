@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="226" height="74" viewBox="0 0 226 74">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="47.5" cy="37" rx="47.5" ry="37" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-0.001" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#71ee6f"/>
+      <stop offset="0.995" stop-color="#0cc32e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="2.161" y1="-0.659" x2="-0.48" y2="1.352" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00d3ff"/>
+      <stop offset="0.995" stop-color="#008eb6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.722" y1="-3.094" x2="-0.084" y2="5.494" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x1="1.663" y1="-0.31" x2="-1.13" y2="1.902" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="Toplearn_Icon" data-name="Toplearn Icon" transform="translate(-40 -18)">
+    <g id="Top_Learn_Logo" data-name="Top Learn Logo" transform="translate(40 18)" clip-path="url(#clip-path)">
+      <g id="toplearnLogo" transform="translate(0 9.33)">
+        <path id="Path_111" data-name="Path 111" d="M118.123,10.063l-19,11.073V10.063Z" transform="translate(-54.331 -10.063)" fill="url(#linear-gradient)"/>
+        <path id="Path_112" data-name="Path 112" d="M54.867,10.063V23.192L41.746,30.848V20.376h-26.2V10.063Z" transform="translate(-15.545 -10.063)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_113" data-name="Path 113" d="M77.786,53.393V88.825l-12.678-.032V60.827Z" transform="translate(-38.544 -35.139)" fill="url(#linear-gradient-3)"/>
+        <path id="Path_114" data-name="Path 114" d="M149.368,88.237H99.5V98.2H138.26Z" transform="translate(-54.505 -55.304)" fill="url(#linear-gradient-4)"/>
+        <path id="Path_115" data-name="Path 115" d="M111.8,30.489V64.561H99.126V38.081Z" transform="translate(-54.331 -21.884)" fill="url(#linear-gradient-5)"/>
+      </g>
+    </g>
+    <text id="Toplearn" transform="translate(152 67)" fill="#009ec4" font-size="29" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Toplearn</tspan></text>
+  </g>
+</svg>
